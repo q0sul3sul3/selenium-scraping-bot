@@ -1,0 +1,10 @@
+URL = "https://"
+USERNAME = "username"
+PASSWORD = "password"
+BRANCH = "branch"
+HOST = "127.0.0.1"
+PORT = 3308
+USER = "user"
+DBPASSWORD = "dbpassword"
+DATABASE = "database"
+WEBDRIVER_PATH = r"C:\Users\Admin\Documents"
